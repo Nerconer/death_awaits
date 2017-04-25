@@ -3,7 +3,7 @@ HISTORIA
 ===========================
 
 Personatges
-
+---------------
 [Grup]
 - Mario
 - Oscar
@@ -19,6 +19,13 @@ Personatges
 - Director del lloc
 - Enfermeres
 - Fantasma calvo (portada de la segona peli)
+
+Mapes
+-------------------
+- Casa Mario
+- Carretera i cotxe
+- Exterior hospital
+- Interior hospital
 
 
 COSES RANDOM
